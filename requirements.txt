@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+numpy
+pdfplumber
+python-docx
+pandas
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+matplotlib
